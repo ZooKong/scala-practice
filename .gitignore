@@ -1,2 +1,16 @@
+# class
 *.class
+
+# log
 *.log
+
+# sbt
+*.sbt
+
+# bsp
+.bsp
+project
+
+# intellij
+.idea
+target
